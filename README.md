@@ -20,11 +20,7 @@ Este é o terceiro curso da formação Data Science, porém é o primeiro dedica
 Inicialmente, revi como são classificadas as variáveis, depois aprendi como fazer o cálculo da distribuição de frequência, identificar as medidas de tendência, o que são as medidas separatrizes e medidas de dispersão.
 
 A base de dados continha informações sobre:
-- a renda mensal;
-- a idade;
-- a altura;
-- UF;
-- o gênero;
-- por quantos anos ela estudou;
-- sua etnia.
+
+![image](https://user-images.githubusercontent.com/67301805/222787934-a44f74a3-452f-460b-b2ff-1494263c7651.png)
+
 
