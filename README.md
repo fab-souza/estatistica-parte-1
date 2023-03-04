@@ -14,6 +14,7 @@
 
 ![](https://user-images.githubusercontent.com/67301805/222568832-1c2ad53b-1ce2-4297-ad48-cfa5a6b8a9dc.jpg)
 
+# Sobre o curso 📚
 
 Este é o terceiro curso da formação Data Science, porém é o primeiro dedicado exclusivamente a estatística, com foco em apresentar ao aluno conceitos sobre frequência e medidas, ao fazer uma análise descritiva do dataset da [Pesquisa Nacional por Amostra de Domicílio](https://www.ibge.gov.br/estatisticas/sociais/populacao/19897-sintese-de-indicadores-pnad2.html?=&t=microdados), que são provenientes do IBGE. Eu já havia estudado estatística durante a graduação, mas quis fazer o curso para retomar e reforçar conceitos.
 
