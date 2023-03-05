@@ -25,3 +25,4 @@ A base de dados continha informações sobre:
 ![image](https://user-images.githubusercontent.com/67301805/222787934-a44f74a3-452f-460b-b2ff-1494263c7651.png)
 
 
+# Minha prática 👩🏻‍💻
