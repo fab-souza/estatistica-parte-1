@@ -35,3 +35,5 @@ Após a apresentação das variáveis e observações sobre o tratamento previam
 **Obs.:** Não houve uma abordagem mais aprofundada, pois na plataforma há uma formação inteira dedicada à [estatística](https://www.alura.com.br/formacao-estatistica-python), em que este curso é o primeiro deles. 
 
 # Minha prática 👩🏻‍💻
+
+# Conclusão
