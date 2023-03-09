@@ -36,4 +36,4 @@ Após a apresentação das variáveis e observações sobre o tratamento previam
 
 # Minha prática 👩🏻‍💻
 
-# Conclusão
+# Conclusão  🏁
