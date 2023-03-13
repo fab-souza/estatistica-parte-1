@@ -38,7 +38,7 @@ Após a apresentação das variáveis e observações sobre o tratamento previam
 
 Diante os tópicos apresentados no curso, eu decidi trabalhar com um dataset que já utilizei em um projeto anterior, referente aos empreendimentos de geração de energia elétrica presentes no país. Ele foi desenvolvido de forma independente, ou seja, eu não estava seguindo nenhum roteiro de curso, bootcamp ou imersão. Eu fiz o projeto, porque eu queria saber até onde poderia chegar e por em prática o que havia aprendido até então. 
 
-Escolhi trabalhar com os dados da Agência Nacional de Energia Elétrica, por causa da minha graduação e porque eu queria sanar uma dúvida que eu tinha sobre a geração de energia renovável. Caso tenha curiosidade, este é o link para o [meu projeto](https://github.com/fab-souza/meu-projeto-energia).
+Escolhi trabalhar com os dados da [Agência Nacional de Energia Elétrica](https://dadosabertos.aneel.gov.br/dataset/siga-sistema-de-informacoes-de-geracao-da-aneel), por causa da minha graduação na área e porque eu queria sanar uma dúvida que eu tinha sobre a geração de energia renovável. Caso tenha curiosidade, este é o link para o [meu projeto](https://github.com/fab-souza/meu-projeto-energia).
 
 Na época, eu abordei mais a visualização do que a análise descritiva dos dados, porque os resultados foram tão discrepantes, que não vi a necessidade de apresentar resultados estatísticos.
 
