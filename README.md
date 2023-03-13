@@ -36,6 +36,26 @@ Após a apresentação das variáveis e observações sobre o tratamento previam
 
 # Minha prática 👩🏻‍💻
 
+Diante os tópicos apresentados no curso, eu decidi trabalhar com um dataset que já utilizei em um projeto anterior, referente aos empreendimentos de geração de energia elétrica presentes no país. Ele foi desenvolvido de forma independente, ou seja, eu não estava seguindo nenhum roteiro de curso, bootcamp ou imersão. Eu fiz o projeto, porque eu queria saber até onde poderia chegar e por em prática o que havia aprendido até então. 
+
+Escolhi trabalhar com os dados da Agência Nacional de Energia Elétrica, por causa da minha graduação e porque eu queria sanar uma dúvida que eu tinha sobre a geração de energia renovável. Caso tenha curiosidade, este é o link para o [meu projeto](https://github.com/fab-souza/meu-projeto-energia).
+
+Na época, eu abordei mais a visualização do que a análise descritiva dos dados. Primeiro, porque os resultados foram tão discrepantes, que não vi a necessidade de apresentar resultados estatísticos.
+
+![image](https://user-images.githubusercontent.com/67301805/224802757-f1a04e9a-3e1a-4ca0-924a-a5430bf114ce.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Conclusão  🏁
 
 
