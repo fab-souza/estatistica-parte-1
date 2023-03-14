@@ -44,7 +44,7 @@ Na época, eu abordei mais a visualização do que a análise descritiva dos dad
 
 ![image](https://user-images.githubusercontent.com/67301805/224802757-f1a04e9a-3e1a-4ca0-924a-a5430bf114ce.png)
 
-
+Ao utilizar este dataset, eu não teria à disposição todos os tipos de dados (qualitativa ordinal e nominal, quantitativa discreta e contínua), mas desenvolver este projeto me possibilitou mostrar as informações de outra forma e dados que não havia explorado anteriormente. 
 
 
 
