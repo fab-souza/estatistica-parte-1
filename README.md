@@ -58,7 +58,9 @@ Ao utilizar este dataset, eu não teria à disposição todos os tipos de dados 
 
 # Conclusão  🏁
 
+Fazer a exploração descritiva, me proporcionou identificar algumas inconsistências que não tinha reparado, por exemplo:
 
+- no projeto anterior, trabalhei apenas com as usinas classificadas em fase de “Operação”. Neste projeto, eu não fiz esta delimitação e vi que algumas usinas classificadas como “Construção não iniciada” tinham datas inusitadas na variável <DatEntradaOperacao>, que interpretei como o início da geração de energia, algumas dessas datas eram de janeiro de 1900. 
 
 ## Ferramentas utilizadas 🧰 
 <p> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
