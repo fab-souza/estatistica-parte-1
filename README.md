@@ -44,10 +44,13 @@ Na época, eu abordei mais a visualização do que a análise descritiva, porque
 
 ![image](https://user-images.githubusercontent.com/67301805/224802757-f1a04e9a-3e1a-4ca0-924a-a5430bf114ce.png)
 
-Ao utilizar este dataset, eu não teria à disposição todos os tipos de dados (qualitativa ordinal e nominal, quantitativa discreta e contínua), mas desenvolver este projeto me possibilitou mostrar as informações de outra forma e dados que não havia explorado anteriormente. 
+Ao utilizar este dataset, eu não teria à disposição todos os tipos de dados (qualitativa ordinal e nominal, quantitativa discreta e contínua), mas desenvolver este projeto me possibilitou mostrar as informações de outra forma e dados que não havia explorado anteriormente. Por exemplo, entre os 24.439 registros no dataset, um pouco mais do que 89% deles encontra-se em operação, enquanto as demais usinas estão em fase de construção, ou ainda não saíram do papel.
 
+![image](https://user-images.githubusercontent.com/67301805/225739406-64805bec-feaf-492b-979d-7505864d3e10.png)
 
+Entre os *tipos de combustível* utilizados (Biomassa, Eólica, Fóssil, Hídrica, Nuclear e Solar), temos a eólica e solar com os maiores números de usinas tanto em *fase de construção*, quanto em *construção não iniciada*. Esta informação me deixou contente, pois mostra que estas fontes estão conseguindo uma maior fatia de participação na Matriz Elétrica brasileira, e que usinas de fontes não renováveis possuem um dos menores números nas duas fases de construção, 26 usinas em fase de construção e 15 usinas que ainda não tiveram sua construção iniciada. 
 
+![image](https://user-images.githubusercontent.com/67301805/225739516-fbcd3905-42e7-467d-a41c-75614db922ed.png)
 
 
 
