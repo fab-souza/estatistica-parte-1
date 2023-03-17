@@ -62,6 +62,7 @@ Potência instalada não é a mesma coisa do que potência outorgada, ou fiscali
 
 Essa divisão já estava presente no dataset, na variável *SigTipoGeracao*, mas eu queria averiguar se as duas classificações seriam compatíveis. Ao fazer a classificação, respeitando as potências que encontrei no site do governo, gerei a seguinte tabela:
 
+![image](https://user-images.githubusercontent.com/67301805/226001714-f5a81a2f-9576-4fda-aeab-5662d4ab469a.png)
 
 
 
