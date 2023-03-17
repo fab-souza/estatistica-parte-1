@@ -52,7 +52,15 @@ Entre os *tipos de combustível* utilizados (Biomassa, Eólica, Fóssil, Hídric
 
 ![image](https://user-images.githubusercontent.com/67301805/225739516-fbcd3905-42e7-467d-a41c-75614db922ed.png)
 
+Durante o curso, através da renda dos entrevistados, foi possível determinar a classe social que eles se enquadram e plotar um gráfico de distribuição. No caso deste projeto, eu poderia fazer algo similar ao dividir as usinas hidrelétricas pela potência. Essa divisão já é padronizada pela ANEEL, em que hidrelétricas de até 1 MW de potência instalada são classificadas como **Centrais Geradoras Hidrelétricas**, as que tiverem entre 1,1 MW a 30 MW de potência instalada são denominadas **Pequenas Centrais Hidrelétricas** e as que tiverem potência superior são **Usina Hidrelétrica de Energia**. 
 
+Fonte: [Catálogo de Metadados da ANA](https://metadados.snirh.gov.br/geonetwork/srv/api/records/d0886b5c-f94c-4573-941b-febad5a990f3#:~:text=A%20Ag%C3%AAncia%20Nacional%20de%20Energia,com%20mais%20de%2030%20MW)
+
+### **Detalhe:** 
+
+Potência instalada não é a mesma coisa do que potência outorgada, ou fiscalizada. Mas eu utilizei a classificação ANEEL, porque queria pôr em prática o que aprendi. Caso tenha curiosidade em entender a diferença entre as potências, essa página do [energês](https://energes.com.br/o-que-e-potencia-outorgada-fiscalizada-e-instalada/) trás uma explicação, que até para quem não é da área consegue entender.
+
+Essa divisão já estava presente no dataset, na variável *SigTipoGeracao*, mas eu queria averiguar se as duas classificações seriam compatíveis. Ao fazer a classificação, respeitando as potências que encontrei no site do governo, gerei a seguinte tabela:
 
 
 
