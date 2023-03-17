@@ -64,7 +64,9 @@ Essa divisão já estava presente no dataset, na variável *SigTipoGeracao*, mas
 
 ![image](https://user-images.githubusercontent.com/67301805/226001714-f5a81a2f-9576-4fda-aeab-5662d4ab469a.png)
 
+Ao conferir com a classificação presente no dateset, encontrei as seguintes informações:
 
+![image](https://user-images.githubusercontent.com/67301805/226001950-f8b84066-e51c-4278-884b-64ea183bc0cb.png)
 
 
 
