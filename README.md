@@ -22,7 +22,7 @@ Se quiser conferir, [este](https://github.com/fab-souza/python-pandas-tratando-d
 
 Voltando a falar sobre este curso, ele é o primeiro dedicado exclusivamente a estatística, com foco em apresentar ao aluno conceitos sobre frequência e medidas, ao fazer uma análise descritiva do dataset da [Pesquisa Nacional por Amostra de Domicílio](https://www.ibge.gov.br/estatisticas/sociais/populacao/19897-sintese-de-indicadores-pnad2.html?=&t=microdados), que são provenientes do IBGE. Eu já havia estudado estatística durante a graduação, mas quis fazer o curso para retomar e reforçar conceitos.
 
-A base de dados utilizada continha informações sobre estas variáveis:
+A base de dados utilizada continha informações sobre as seguintes variáveis:
 
 ![image](https://user-images.githubusercontent.com/67301805/222787934-a44f74a3-452f-460b-b2ff-1494263c7651.png)
 
