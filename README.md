@@ -68,6 +68,18 @@ Ao conferir com a classificação presente no dateset, encontrei as seguintes in
 
 ![image](https://user-images.githubusercontent.com/67301805/226001950-f8b84066-e51c-4278-884b-64ea183bc0cb.png)
 
+Eu já esperava que os valores fossem diferentes. Acredito que isso tenha acontecido, porque os mínimos e máximos presentes no dataset, para cada tipo de hidrelétrica, não estão compatíveis com a classificação da ANEEL.
+
+![image](https://user-images.githubusercontent.com/67301805/226403609-6d194fc0-b6c7-45a2-bf6a-a93931b9554f.png)
+![image](https://user-images.githubusercontent.com/67301805/226403684-f21309a6-ca67-413f-ac6d-16adb2385427.png)
+
+
+
+
+
+
+
+
 
 
 # Conclusão  🏁
