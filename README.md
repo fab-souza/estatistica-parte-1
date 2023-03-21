@@ -9,7 +9,7 @@
 | -------------  | --- |
 | :sparkles: Nome        | **Estatística com Python parte 1: frequências e medidas**
 | :label: Tecnologias | python
-| :rocket: URL         | 
+| :rocket: URL         | Notebook no [Kaggle](https://www.kaggle.com/code/fabianadesouza/estatistica-parte-1)
 | :fire: Desafio     | Conteúdo do 3º [curso](https://www.alura.com.br/curso-online-estatistica-distribuicoes-e-medidas) da formação [Data Science](https://www.alura.com.br/formacao-data-science)
 
 ![](https://user-images.githubusercontent.com/67301805/222568832-1c2ad53b-1ce2-4297-ad48-cfa5a6b8a9dc.jpg#vitrinedev)
