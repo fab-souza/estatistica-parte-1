@@ -86,7 +86,7 @@ Eu já esperava que os valores fossem diferentes. Acredito que isso tenha aconte
 
 Fazer a exploração descritiva, me proporcionou identificar algumas inconsistências que não tinha reparado, por exemplo:
 
-- no projeto anterior, trabalhei apenas com as usinas classificadas em fase de *Operação*. Neste projeto, inicialmente, eu não fiz esta delimitação e vi que algumas usinas classificadas como *Construção não iniciada* tinham datas inusitadas na variável <DatEntradaOperacao>, que interpretei como o início da geração de energia, algumas dessas datas eram de janeiro de 1900. 
+- no projeto anterior, trabalhei apenas com as usinas classificadas em fase de *Operação*. Neste projeto, inicialmente, eu não fiz esta delimitação e vi que algumas usinas classificadas como *Construção não iniciada* tinham datas inusitadas na variável *DatEntradaOperacao*, que interpretei como o início da geração de energia, algumas dessas datas eram de janeiro de 1900. 
 
 ![image](https://user-images.githubusercontent.com/67301805/226005483-a27739c7-c7ce-4567-b760-d01d5e7c10ad.png)
 
