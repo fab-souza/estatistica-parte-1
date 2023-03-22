@@ -89,6 +89,13 @@ Fazer a exploração descritiva, me proporcionou identificar algumas inconsistê
 
 ![image](https://user-images.githubusercontent.com/67301805/226005483-a27739c7-c7ce-4567-b760-d01d5e7c10ad.png)
 
+### Obs.:
+Eu não quis ir ‘muito além’ do que foi passado no curso, porque ainda há mais conteúdo de estatística que quero elaborar um projeto.
+
+---
+
+Muito obrigada por chegar até aqui e até a próxima 🤗
+
 
 ## Ferramentas utilizadas 🧰 
 <p> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
