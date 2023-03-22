@@ -73,20 +73,19 @@ Eu já esperava que os valores fossem diferentes. Acredito que isso tenha aconte
 ![image](https://user-images.githubusercontent.com/67301805/226403609-6d194fc0-b6c7-45a2-bf6a-a93931b9554f.png)
 ![image](https://user-images.githubusercontent.com/67301805/226403684-f21309a6-ca67-413f-ac6d-16adb2385427.png)
 
+Para finalizar, verifiquei as medidas de dispersão das usinas eólicas. Escolhi esta fonte, porque ela apresentou um box-plot com menos outliers (com exceção das usinas hídricas e nuclear). 
 
+Criei um dataset composto por estas usinas, classificadas como em *Operação* e adicionei a média da *Potência Outorgada*, o desvio e desvio médio absoluto para calcular a variância e o desvio padrão. Conclui com o uso dos métodos de cada medida de dispersão, fiz a variância de cada tipo de usina e plotei seus box-plot, mostrando que posso trazer a mesma informação de formas diferentes.
 
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/67301805/226986549-ea82f74a-f270-490b-afc3-798d24a86b7b.png)
+![image](https://user-images.githubusercontent.com/67301805/226986632-5f6eb4d7-7f1a-4e8d-a759-82553bdf853b.png)
 
 
 # Conclusão  🏁
 
 Fazer a exploração descritiva, me proporcionou identificar algumas inconsistências que não tinha reparado, por exemplo:
 
-- no projeto anterior, trabalhei apenas com as usinas classificadas em fase de *Operação*. Neste projeto, inicialmente, eu não fiz esta delimitação e vi que algumas usinas classificadas como *Construção não iniciada* tinham datas inusitadas na variável *DatEntradaOperacao*, que interpretei como o início da geração de energia, algumas dessas datas eram de janeiro de 1900. 
+- no projeto anterior, trabalhei apenas com as usinas classificadas em fase de *Operação*. Neste projeto, inicialmente, eu não fiz esta delimitação e vi que algumas usinas classificadas como *Construção não iniciada* tinham datas inusitadas na variável *DatEntradaOperacao*. 
 
 ![image](https://user-images.githubusercontent.com/67301805/226005483-a27739c7-c7ce-4567-b760-d01d5e7c10ad.png)
 
