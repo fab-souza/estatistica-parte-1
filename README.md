@@ -103,3 +103,5 @@ Muito obrigada por chegar até aqui e até a próxima 🤗
     <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://numpy.org/images/logo.svg" alt="numpy" width="40" height="40"/>
     <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
     </p>
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=estatistica-parte-1&label=Profile%20views&color=0e75b6&style=flat" alt="fab-souza" /> </p>
